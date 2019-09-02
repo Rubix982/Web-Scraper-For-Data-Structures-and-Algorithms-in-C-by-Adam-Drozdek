@@ -85,17 +85,23 @@ saif:~/Desktop/new_folder
 
 ## 2): Or, just download the .zip that contains all the files
 
-Too long; won't read: All the code is the _**public**_ folder
+You have three options here: 
 
-Long Story; Long Way: To be honest, there is no way ( that I atleast know of, PM me if there is ) to download only specific parts of a github repository - in this case, a folder - so the easiest way is to download a zip of the complete project and then remove all the unncessary files. All the **code** from the book is isolated in the folder __public__, so just remove _**everything else**_...
+1):Go to http://www.mathcs.duq.edu/drozdek/DSinCpp/ , and download a zip that the author himself uploaded of all the files. It's the 2nd link.
+
+2): Too long; won't read: All the code is the _**public**_ folder
+
+3): Long Story; Long Way: To be honest, there is no way ( that I atleast know of, PM me if there is ) to download only specific parts of a github repository - in this case, a folder - so the easiest way is to download a zip of the complete project and then remove all the unncessary files. All the **code** from the book is isolated in the folder __public__, so just remove _**everything else**_...
 
 ... or if you are interested, download the files, remove the unnecessary ones, zip the **public** folder, and share it with your friends so they don't have to waste their internet bandwidth...
 
-.. sorry ¯\\__(ツ)__/¯ 
+.. sorry.
 
 You can find the zip download as shown below, from the top right:
 
 ![Button showing zip download](https://github.com/Rubix982/Web-Scraper-For-Data-Structures-and-Algorithms-in-C-by-Adam-Drozdek/blob/master/img/downloadzip.png)
+
+Just did this because I wanted to get comfortable with web scraping. ¯\\__(ツ)__/¯ 
 
 ---
 # License
