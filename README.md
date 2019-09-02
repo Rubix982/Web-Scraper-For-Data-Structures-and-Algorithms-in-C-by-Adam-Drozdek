@@ -120,3 +120,8 @@ Just certain tags for Google SEO: #DataStructures #AdamDrozdek #C++ #Code #WebSc
    [Stack Overflow]: <https://stackoverflow.com/questions/50837798/how-create-md-file-with-python>
    [Picture of Author]: <http://www.mathcs.duq.edu/pics/drozdek2.jpg>
    [author]: <http://www.mathcs.duq.edu/drozdek/>
+
+# Future Improvement Plans
+
+> Implement a way to pass arguments using argparse to specify local directory to download to
+> Make the scraper more dynamic ( not sure how, but will think of something, hopefully )
