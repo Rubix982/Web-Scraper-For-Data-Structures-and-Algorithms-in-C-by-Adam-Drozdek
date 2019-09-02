@@ -123,5 +123,5 @@ Just certain tags for Google SEO: #DataStructures #AdamDrozdek #C++ #Code #WebSc
 
 # Future Improvement Plans
 
-> Implement a way to pass arguments using argparse to specify local directory to download to
-> Make the scraper more dynamic ( not sure how, but will think of something, hopefully )
+* Implement a way to pass arguments using argparse to specify local directory to download to
+* Make the scraper more dynamic ( not sure how, but will think of something, hopefully )
