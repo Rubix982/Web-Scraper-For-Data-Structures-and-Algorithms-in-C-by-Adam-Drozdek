@@ -1,6 +1,9 @@
 # Data Structures and Algorithms in C++ 4th Edition, Adam Drozdek, Code
 ![Picture of the book](https://images-na.ssl-images-amazon.com/images/I/51q5Zu5XsNL._SX402_BO1,204,203,200_.jpg) 
+
+
 with
+
 
 ![Hey, it's Python!](https://www.python.org/static/img/python-logo.png)
 
@@ -109,6 +112,10 @@ MIT
 Thanks for checking this repo! I hope it was useful for you.
 
 The [author] himself!
+
+#
+#
+
 ![Picture of author](http://www.mathcs.duq.edu/pics/drozdek2.jpg)
 
 Just certain tags for Google SEO: #DataStructures #AdamDrozdek #C++ #Code #WebScraper
