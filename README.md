@@ -39,7 +39,7 @@ This project is simply a python file that uses the _**requests**_ and _**html-re
 
 3): Clone the project from Github
 ```sh
-> git clone link_to_be_updated
+> git clone git@github.com:Rubix982/Web-Scraper-For-Data-Structures-and-Algorithms-in-C-by-Adam-Drozdek.git
 ```
 
 3): Change into the directory, and activate the virtual environment. Make sure you have virtualenv setup on your machine. Don't have _**virtualenv**_, or want to learn how to set it up? Here is an excellent guide: https://realpython.com/python-virtual-environments-a-primer/
@@ -82,8 +82,17 @@ saif:~/Desktop/new_folder
 
 ## 2): Or, just download the .zip that contains all the files
 
-Looks like I forgot to upload the link to that here. Maybe come back soon... ? 
-¯\\__(ツ)__/¯ Oops!
+Too long; won't read: All the code is the _**public**_ folder
+
+Long Story; Long Way: To be honest, there is no way ( that I atleast know of, PM me if there is ) to download only specific parts of a github repository - in this case, a folder - so the easiest way is to download a zip of the complete project and then remove all the unncessary files. All the **code** from the book is isolated in the folder __public__, so just remove _**everything else**_...
+
+... or if you are interested, download the files, remove the unnecessary ones, zip the **public** folder, and share it with your friends so they don't have to waste their internet bandwidth...
+
+.. sorry ¯\\__(ツ)__/¯ 
+
+You can find the zip download as shown below, from the top right:
+
+![Button showing zip download](https://github.com/Rubix982/Web-Scraper-For-Data-Structures-and-Algorithms-in-C-by-Adam-Drozdek/blob/master/img/downloadzip.png)
 
 ---
 # License
